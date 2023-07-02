@@ -1,11 +1,12 @@
 #container {
-  text-align: center;
+  text-align: right;
 
   position: absolute;
   left: 0;
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+  background-color: black;
 }
 
 #container strong {
@@ -25,3 +26,4 @@
 #container a {
   text-decoration: none;
 }
+
